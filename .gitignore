@@ -1,0 +1,11 @@
+# Pasta interna do Godot (cache, gerada automaticamente)
+.godot/
+
+# Arquivos compactados (os tiles já estão descompactados em assets/)
+*.zip
+
+# Arquivos do Kenney que não usamos
+assets/kenney_pixel-platformer/Construct 3/
+
+# macOS
+.DS_Store
