@@ -86,6 +86,10 @@ Legenda: **[D]** = decisão · **[X]** = dificuldade / problema encontrado
 
 (Godot 4.7.1, modo headless, num computador de testes. Os números podem variar no notebook da apresentação.)
 
+## 7. Relatório
+
+**[D18] O relatório contém só o que o enunciado pede.** As seções seguem a ordem do enunciado: nome do artigo, autores, área de implementação, algoritmos utilizados, resumo, implementação e conclusões e observações. O resto se limita ao necessário: capa, sumário e referências, no formato UNIVALI do relatório de Redes II. Introdução, metodologia e apêndices foram deixados de fora; podem entrar depois se sobrar tempo.
+
 ---
 
 ## Dificuldades encontradas
